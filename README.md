@@ -1,8 +1,8 @@
-##Amazon Website Clone
+## **Amazon Website Clone
 
 This repository contains a **frontend clone of the Amazon homepage**, developed using **HTML and CSS** as part of my foundational learning in web development.
 
-###📌 Project Overview
+##📌** Project Overview
 
 The primary objective of this project was to gain a practical understanding of how **large-scale, real-world websites** are structured and styled. By recreating the Amazon homepage layout, I focused on learning how multiple UI components work together to form a complete and visually consistent web interface.
 
