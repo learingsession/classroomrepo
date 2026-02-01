@@ -11,15 +11,15 @@ This project helped me transition from learning individual HTML and CSS concepts
 # Learning Outcomes
 Through the development of this project, I gained hands-on experience with:
 
-- Writing **semantic and structured HTML**
-- Designing layouts using **CSS Flexbox**
-- Building and styling common e-commerce UI components such as:
-  - Navigation bars
-  - Product listing sections
-  - Image-based content areas
-- Managing assets such as images and icons
-- Improving layout alignment, spacing, and visual consistency
-- Understanding frontend design patterns used in modern e-commerce platforms
+> Writing **semantic and structured HTML**
+> Designing layouts using **CSS Flexbox**
+> Building and styling common e-commerce UI components such as:
+  > Navigation bars
+  > Product listing sections
+  > Image-based content areas
+> Managing assets such as images and icons
+> Improving layout alignment, spacing, and visual consistency
+> Understanding frontend design patterns used in modern e-commerce platforms
 
 ## 🛠️ Technologies Used
 - HTML  
