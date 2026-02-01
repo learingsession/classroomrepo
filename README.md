@@ -40,6 +40,4 @@ Planned improvements for this project include:
 - Refining UI consistency and accessibility
 - Deploying the project using **GitHub Pages**
 
----
-
 ⭐ This project represents an important step in my journey toward building real-world web applications and contributing to open-source projects.
