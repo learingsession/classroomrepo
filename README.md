@@ -22,8 +22,8 @@ Through the development of this project, I gained hands-on experience with:
 > Understanding frontend design patterns used in modern e-commerce platforms
 
 ## 🛠️ Technologies Used
-- HTML  
-- CSS  
+• HTML  
+• CSS  
 
 ## 🎯 Significance of the Project
 Rather than limiting my learning to isolated examples or tutorials, this project allowed me to:
