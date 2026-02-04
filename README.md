@@ -6,7 +6,7 @@ This repository contains a **frontend clone of the Amazon homepage**, developed 
 
 The primary objective of this project was to gain a practical understanding of how **large-scale, real-world websites** are structured and styled. By recreating the Amazon homepage layout, I focused on learning how multiple UI components work together to form a complete and visually consistent web interface.
 
-This project helped me transition from learning individual HTML and CSS concepts to **applying them in a realistic project scenario**.
+This project helped me transition from learning individual HTML and CSS concepts to **applying them in a realistic project scenario**
 
 # Learning Outcomes
 Through the development of this project, I gained hands-on experience with:
