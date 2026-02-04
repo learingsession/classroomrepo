@@ -21,7 +21,7 @@ Through the development of this project, I gained hands-on experience with:
 > Improving layout alignment, spacing, and visual consistency
 > Understanding frontend design patterns used in modern e-commerce platforms
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 • HTML  
 • CSS  
 
