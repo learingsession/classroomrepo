@@ -1,6 +1,6 @@
 ## **Amazon Website Clone
 
-This repository contains a **frontend clone of the Amazon homepage**, developed using **HTML and CSS** as part of my foundational learning in web development.
+This repository contains a **frontend clone of the Amazon homepage**, developed using **HTML and CSS** as part of my foundational learning in web development
 
 📌 PROJECT OVERVIEW
 
