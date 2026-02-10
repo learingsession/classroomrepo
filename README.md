@@ -9,7 +9,7 @@ The primary objective of this project was to gain a practical understanding of h
 This project helped me transition from learning individual HTML and CSS concepts to **applying them in a realistic project scenario**
 
 # Learning Outcomes
-Through the development of this project, I gained hands-on experience with:
+Through the development of this project, I gained hands-on experience with
 
 > Writing **semantic and structured HTML**
 > Designing layouts using **CSS Flexbox**
@@ -26,7 +26,7 @@ Through the development of this project, I gained hands-on experience with:
 • CSS  
 
 ## 🎯 Significance of the Project
-Rather than limiting my learning to isolated examples or tutorials, this project allowed me to:
+Rather than limiting my learning to isolated examples or tutorials, this project allowed me to
 - Apply foundational concepts to a **real-world inspired use case**
 - Strengthen my understanding of **CSS layout techniques**
 - Develop confidence in building structured and visually organized webpages
