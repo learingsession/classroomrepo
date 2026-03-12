@@ -1,4 +1,4 @@
-## **Amazon Website Clone
+## *Amazon Website Clone
 
 This repository contains a **frontend clone of the Amazon homepage**, developed using **HTML and CSS** as part of my foundational learning in web development
 
@@ -27,9 +27,9 @@ Through the development of this project, I gained hands-on experience with
 
 ## 🎯 Significance of the Project
 Rather than limiting my learning to isolated examples or tutorials, this project allowed me to
-- Apply foundational concepts to a **real-world inspired use case**
-- Strengthen my understanding of **CSS layout techniques**
-- Develop confidence in building structured and visually organized webpages
+ Apply foundational concepts to a **real-world inspired use case**
+ Strengthen my understanding of **CSS layout techniques**
+ Develop confidence in building structured and visually organized webpages
 
 This experience encouraged me to further explore **JavaScript and React** to add interactivity and improve user experience in future projects.
 
