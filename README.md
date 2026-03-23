@@ -34,7 +34,7 @@ Rather than limiting my learning to isolated examples or tutorials, this project
 This experience encouraged me to further explore **JavaScript and React** to add interactivity and improve user experience in future projects.
 
 # Future Enhancements
-Planned improvements for this project include:
+Planned improvements for this project include
 - Implementing **responsive design** for different screen sizes
 - Adding **JavaScript-based interactivity**
 - Refining UI consistency and accessibility
