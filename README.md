@@ -25,7 +25,7 @@ Through the development of this project, I gained hands-on experience with
 • HTML  
 • CSS  
 
-## 🎯 Significance of the Project
+#🎯 Significance of the Project
 Rather than limiting my learning to isolated examples or tutorials, this project allowed me to
  Apply foundational concepts to a **real-world inspired use case**
  Strengthen my understanding of **CSS layout techniques**
